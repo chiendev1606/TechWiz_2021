@@ -1,0 +1,21 @@
+.custom-search-input {
+  border: none;
+  border-bottom: 2px solid #757575;
+  background: transparent;
+  outline: none;
+  padding-bottom: 5px;
+  min-width: 250px;
+  text-indent: 40px;
+  position: relative;
+}
+
+.search-area {
+  display: inline-block;
+}
+
+.search-icon {
+  font-size: 20px;
+  margin-left: 1110px;
+  margin-top: 50%;
+
+}
